@@ -23,9 +23,7 @@
 
 | **#** | **Platform** | **Açıklama** | **Erişim Sayfası Linki** |
 |---|-------------|-------------|---------|
-| 1 | **Ulusal Akıllı Şehir Açık Veri Platformu** | Türkiye'deki akıllı şehir 
-
-
+| 1 | **Ulusal Akıllı Şehir Açık Veri Platformu** | Türkiye'deki akıllı şehir uygulamalarıyla ilgili 
 
 
 
