@@ -18,6 +18,7 @@
 * Ekonomik Değer Oluşturur
 
 ----  
+## 3. Veri Setleri
 
 1. CSV (Comma-Separated Values) - CSV, verilerin satır ve sütun halinde saklandığı, her değerin virgülle ayrıldığı düz metin formatıdır.  
 2. Excel (XLS, XLSX) - Microsoft Excel tarafından kullanılan tablolar, grafikler ve formüller içeren bir dosya formatıdır.  
@@ -26,7 +27,7 @@
  
 ----  
 
-# Ulusal ve Uluslararası Açık Veri Seti Platformları -> Açık Kaynak Veri Seti Sayfaları
+## 4. Ulusal ve Uluslararası Açık Veri Seti Platformları -> Açık Kaynak Veri Seti Sayfaları
 
 | **No** | **Platform** | **Açıklama** | **Erişim Sayfası Linki** |
 |---|-------------|-------------|---------|
