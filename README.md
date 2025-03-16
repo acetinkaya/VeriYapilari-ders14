@@ -25,6 +25,7 @@
 |---|-------------|-------------|---------|
 | 1 | **Ulusal Akıllı Şehir Açık Veri Platformu** | Türkiye'deki akıllı şehir uygulamalarıyla ilgili açık veri setlerini sunar. | [Ulusal Akıllı Şehir Açık Veri Platformu](https://ulasav.csb.gov.tr/) |
 | 2 | **TÜBİTAK Açık Arşivi** | TÜBİTAK tarafından sağlanan akademik ve bilimsel açık veri arşividir. | [TÜBİTAK Açık Arşivi](https://acikveri.ulakbim.gov.tr/) |
+| 3 | **Türkiye Cumhuriyet Merkez Bankası (TCMB) Veri Portalı** 
 | 3 | **İBB Açık Veri Portalı** | İstanbul Büyükşehir Belediyesi tarafından sağlanan açık veri platformudur. Trafik, ulaşım, çevre gibi birçok veri seti içerir. | [İBB Açık Veri Portalı](https://data.ibb.gov.tr/) |
 | 4 | **Küçükçekmece Belediyesi Açık Veri Platformu** | Küçükçekmece Belediyesi'nin sunduğu yerel açık veri setlerini içerir. | [Küçükçekmece Belediyesi Açık Veri Platformu](https://acikveri.kucukcekmece.bel.tr/) |
 | 5 | **Kaggle** | Veri bilimciler ve araştırmacılar için geniş bir açık veri havuzu sunar. Makine öğrenimi yarışmaları da düzenlenmektedir. | [Kaggle Datasets](https://www.kaggle.com/datasets) |
@@ -33,8 +34,6 @@
 | 8 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
 | 9 | **World Bank Open Data** | Dünya Bankası’nın ekonomik ve demografik verilerini içeren büyük bir açık veri kaynağıdır. | [World Bank Open Data](https://data.worldbank.org/) |
 | 10 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
-| 11 | **OpenStreetMap (OSM)** | Açık kaynaklı coğrafi bilgi sistemleri (GIS) ve haritalama verileri sağlar. | [OpenStreetMap](https://www.openstreetmap.org/) |
-| 12 | **FiveThirtyEight Data** | FiveThirtyEight tarafından yayınlanan istatistiksel analizlere dayalı açık veri setlerini içerir. | [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) |
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
 | 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
 
