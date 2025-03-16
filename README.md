@@ -46,3 +46,5 @@
 
 Veri Setinin İçeriği:
 
+Bu veri seti, 2004 yılından itibaren her yıl için aşağıdaki bilgileri içermektedir:
+
