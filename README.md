@@ -33,7 +33,7 @@
 | 8 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
 | 9 | **World Bank Open Data** | Dünya Bankası’nın ekonomik ve demografik verilerini içeren büyük bir açık veri kaynağıdır. | [World Bank Open Data](https://data.worldbank.org/) |
 | 10 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
-| 11 | **OpenStreetMap (OSM)** | 
+| 11 | **OpenStreetMap (OSM)** | Açık kaynaklı coğrafi bilgi sistemleri (GIS) ve haritalama verileri sağlar. | 
 
 
 
