@@ -40,7 +40,7 @@
 
 ----
 
-# İBB Atıktan Geri Kazanım Miktarları (https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
+# Örnek Açık Kaynak Veri Seti İncelemesi --> İBB Atıktan Geri Kazanım Miktarları (https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
 
 İstanbul Büyükşehir Belediyesi'nin (İBB) Açık Veri Portalı'nda yer alan "Atıktan Geri Kazanım Miktarları" veri seti, İstanbul'da atıklardan elde edilen geri kazanım miktarlarını yıllık bazda sunmaktadır.
 
