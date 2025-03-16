@@ -14,4 +14,4 @@
 * Veri Temelli Karar Alma  
 * İş Birliklerini Destekler   
 * Ekonomik Değer Oluşturur   
-* Bilimsel 
+* Bilimsel ve Akademik 
