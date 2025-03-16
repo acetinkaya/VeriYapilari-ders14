@@ -19,7 +19,7 @@
 
 ----
 
-# Ulusal ve  Açık Kaynak Veri Seti Sayfaları
+# Ulusal ve Uluslararası Açık Veri  Açık Kaynak Veri Seti Sayfaları
 
 1-> Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
 
