@@ -16,3 +16,5 @@
 * Ekonomik Değer Oluşturur   
 * Bilimsel ve Akademik Çalışmalara Katkı
 * Yenilik ve İnovasyon
+
+----
