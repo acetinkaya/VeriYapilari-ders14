@@ -22,7 +22,8 @@
 # Ulusal ve Uluslararası Açık Veri Seti Platformları -> Açık Kaynak Veri Seti Sayfaları
 
 | **#** | **Platform** | **Açıklama** | **Erişim Sayfası Linki** |
-|---|-------------|
+|---|-------------|-------------|---------|
+
 
 
 
