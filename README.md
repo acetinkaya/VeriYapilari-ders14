@@ -52,3 +52,5 @@ Bu veri seti, 2004 yılından itibaren her yıl için aşağıdaki bilgileri iç
 
 2. İBB Tesislerinde Geri Dönüştürülen Malzeme Miktarı (ton): İstanbul Büyükşehir Belediyesi tesislerinde geri dönüştürülen malzemelerin toplam miktarı.
 
+3. Atıktan Türetilmiş Yakıt Miktarı (ton): Atıklardan üretilen alternatif yakıt miktarı.
+
