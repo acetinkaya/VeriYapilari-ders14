@@ -18,3 +18,5 @@
 * Ekonomik Değer Oluşturur    
 
 ----
+
+## Açık Kaynak 
