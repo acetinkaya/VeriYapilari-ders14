@@ -30,10 +30,10 @@
 | 5 | **İBB Açık Veri Portalı** | İstanbul Büyükşehir Belediyesi tarafından sağlanan açık veri platformudur. Trafik, ulaşım, çevre gibi birçok veri seti içerir. | [İBB Açık Veri Portalı](https://data.ibb.gov.tr/) |
 | 6 | **Küçükçekmece Belediyesi Açık Veri Platformu** | Küçükçekmece Belediyesi'nin sunduğu yerel açık veri setlerini içerir. | [Küçükçekmece Belediyesi Açık Veri Platformu](https://acikveri.kucukcekmece.bel.tr/) |
 | 7 | **Kaggle** | Veri bilimciler ve araştırmacılar için geniş bir açık veri havuzu sunar. Makine öğrenimi yarışmaları da düzenlenmektedir. | [Kaggle Datasets](https://www.kaggle.com/datasets) |
-| 6 | **Google Dataset Search** | Google tarafından sunulan ve internet üzerindeki açık veri setlerini indeksleyen bir arama motorudur. | [Google Dataset Search](https://datasetsearch.research.google.com/) |
-| 7 | **Data.gov (ABD Açık Veri Portalı)** | ABD hükümetine ait kamu açık veri setlerini içerir. Sağlık, eğitim, ekonomi ve çevre gibi alanlarda veriler sunar. | [Data.gov](https://www.data.gov/) |
-| 8 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
-| 9 | **World Bank Open Data** | Dünya Bankası’nın ekonomik ve demografik verilerini içeren büyük bir açık veri kaynağıdır. | [World Bank Open Data](https://data.worldbank.org/) |
+| 8 | **Google Dataset Search** | Google tarafından sunulan ve internet üzerindeki açık veri setlerini indeksleyen bir arama motorudur. | [Google Dataset Search](https://datasetsearch.research.google.com/) |
+| 9 | **Data.gov (ABD Açık Veri Portalı)** | ABD hükümetine ait kamu açık veri setlerini içerir. Sağlık, eğitim, ekonomi ve çevre gibi alanlarda veriler sunar. | [Data.gov](https://www.data.gov/) |
+| 10 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
+| 11 | **World Bank Open Data** | Dünya Bankası’nın ekonomik ve demografik verilerini içeren büyük bir açık veri kaynağıdır. | [World Bank Open Data](https://data.worldbank.org/) |
 | 10 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
 | 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
