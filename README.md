@@ -38,3 +38,11 @@
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
 | 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
 
+----
+
+# İBB Atıktan Geri Kazanım Miktarları (https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
+
+İstanbul Büyükşehir Belediyesi'nin (İBB) Açık Veri Portalı'nda yer alan "Atıktan Geri Kazanım Miktarları" veri seti, İstanbul'da atıklardan elde edilen geri kazanım miktarlarını yıllık bazda sunmaktadır.
+
+Veri Setinin İçeriği:
+
