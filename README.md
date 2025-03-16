@@ -25,4 +25,7 @@
 
 2-> TÜBİTAK Açık Arşivi -> https://acikveri.ulakbim.gov.tr/
 
-3-> İBB Açık Veri Portalı 
+3-> İBB Açık Veri Portalı -> https://data.ibb.gov.tr/
+
+
+
