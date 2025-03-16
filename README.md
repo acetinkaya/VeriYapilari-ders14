@@ -9,3 +9,5 @@
 ### Açık veri, standart formatlarda sunulmalıdır. Verinin ücretsiz, erişilebilir ve yeniden kullanılabilir olması temel kriterlerdir.
 
 ## 2. Açık Verinin Önemi ve Kullanım Alanları
+
+* Çevresel ve Sosyal Fayda
