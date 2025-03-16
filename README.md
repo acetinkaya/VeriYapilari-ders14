@@ -2,7 +2,7 @@
 
 ## Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)
 
-1. Açık Kaynak Veri Nedir?
+# 1. Açık Kaynak Veri Nedir?
 
 # Açık veri, herhangi bir kısıtlama olmaksızın herkesin erişebileceği, kullanabileceği ve paylaşabileceği şekilde sunulan verilerdir. Bu veriler genellikle devlet kurumları, akademik çalışmalar, sivil toplum kuruluşları ve özel sektör tarafından sağlanır.
 
