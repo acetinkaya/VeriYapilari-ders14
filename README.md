@@ -15,4 +15,4 @@
 * İş Birliklerini Destekler   
 * Ekonomik Değer Oluşturur   
 * Bilimsel ve Akademik Çalışmalara Katkı
-* Yenilik
+* Yenilik ve İnovasyon
