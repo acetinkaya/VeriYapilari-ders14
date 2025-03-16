@@ -30,7 +30,8 @@
 | 5 | **Kaggle** | Veri bilimciler ve araştırmacılar için geniş bir açık veri havuzu sunar. Makine öğrenimi yarışmaları da düzenlenmektedir. | [Kaggle Datasets](https://www.kaggle.com/datasets) |
 | 6 | **Google Dataset Search** | Google tarafından sunulan ve internet üzerindeki açık veri setlerini indeksleyen bir arama motorudur. | [Google Dataset Search](https://datasetsearch.research.google.com/) |
 | 7 | **Data.gov (ABD Açık Veri Portalı)** | ABD hükümetine ait kamu açık veri setlerini içerir. Sağlık, eğitim, ekonomi ve çevre gibi alanlarda veriler sunar. | [Data.gov](https://www.data.gov/) |
-| 8 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. |
+| 8 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
+| 9 | **World Bank Open Data** | 
 
 
 
