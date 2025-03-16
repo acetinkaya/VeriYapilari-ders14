@@ -35,8 +35,7 @@
 | 10 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
 | 11 | **OpenStreetMap (OSM)** | Açık kaynaklı coğrafi bilgi sistemleri (GIS) ve haritalama verileri sağlar. | [OpenStreetMap](https://www.openstreetmap.org/) |
 | 12 | **FiveThirtyEight Data** | FiveThirtyEight tarafından yayınlanan istatistiksel analizlere dayalı açık veri setlerini içerir. | [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) |
-
-
+| 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. |
 
 
 
