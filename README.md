@@ -36,7 +36,7 @@
 | 11 | **OpenStreetMap (OSM)** | Açık kaynaklı coğrafi bilgi sistemleri (GIS) ve haritalama verileri sağlar. | [OpenStreetMap](https://www.openstreetmap.org/) |
 | 12 | **FiveThirtyEight Data** | FiveThirtyEight tarafından yayınlanan istatistiksel analizlere dayalı açık veri setlerini içerir. | [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) |
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) |
-| 14 | **NASA Earth Data** |
+| 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
 
 
 
