@@ -23,4 +23,7 @@
 
 1-> Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
 
-2-> TÜBİTAK Açık
+2-> TÜBİTAK Açık Arşivi -> https://acikveri.ulakbim.gov.tr/
+
+
+
