@@ -28,7 +28,9 @@
 | 3 | **İBB Açık Veri Portalı** | İstanbul Büyükşehir Belediyesi tarafından sağlanan açık veri platformudur. Trafik, ulaşım, çevre gibi birçok veri seti içerir. | [İBB Açık Veri Portalı](https://data.ibb.gov.tr/) |
 | 4 | **Küçükçekmece Belediyesi Açık Veri Platformu** | Küçükçekmece Belediyesi'nin sunduğu yerel açık veri setlerini içerir. | [Küçükçekmece Belediyesi Açık Veri Platformu](https://acikveri.kucukcekmece.bel.tr/) |
 | 5 | **Kaggle** | Veri bilimciler ve araştırmacılar için geniş bir açık veri havuzu sunar. Makine öğrenimi yarışmaları da düzenlenmektedir. | [Kaggle Datasets](https://www.kaggle.com/datasets) |
-| 6 | **Google Dataset Search** | Google tarafından sunulan ve internet üzerindeki açık veri setlerini indeksleyen bir arama motorudur. 
+| 6 | **Google Dataset Search** | Google tarafından sunulan ve internet üzerindeki açık veri setlerini indeksleyen bir arama motorudur. | [Google Dataset Search](https://datasetsearch.research.google.com/) |
+| 7 | **Data.gov (ABD Açık Veri Portalı)** |
+
 
 
 
