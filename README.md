@@ -23,4 +23,4 @@
 
 1-> Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
 
-2-> 
+2-> TÜBİTAK Açık
