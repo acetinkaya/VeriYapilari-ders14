@@ -54,3 +54,4 @@ Bu veri seti, 2004 yılından itibaren her yıl için aşağıdaki bilgileri iç
 
 3. Atıktan Türetilmiş Yakıt Miktarı (ton): Atıklardan üretilen alternatif yakıt miktarı.
 
+4. Çöp Gazından Üretilen Elektrik Enerjisi Miktarı (MWh): Depolama sahalarından elde edilen çöp gazından üretilen elektrik enerjisi miktarı.
