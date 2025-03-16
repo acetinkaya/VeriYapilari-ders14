@@ -38,15 +38,3 @@
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
 | 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
 
-
-
-
-
-1-> Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
-
-2-> TÜBİTAK Açık Arşivi -> https://acikveri.ulakbim.gov.tr/
-
-3-> İBB Açık Veri Portalı -> https://data.ibb.gov.tr/
-
-4-> Küçükçekmece Belediyesi Açık Veri Platformu -> https://acikveri.kucukcekmece.bel.tr/
-
