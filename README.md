@@ -11,4 +11,5 @@
 ## 2. Açık Verinin Önemi ve Kullanım Alanları
 
 * Çevresel ve Sosyal Fayda  
-* Veri Temelli Karar Alma  
+* Veri Temelli Karar Alma
+* İş Birliklerini
