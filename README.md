@@ -15,3 +15,4 @@
 * İş Birliklerini Destekler   
 * Ekonomik Değer Oluşturur   
 * Bilimsel ve Akademik Çalışmalara Katkı
+* 
