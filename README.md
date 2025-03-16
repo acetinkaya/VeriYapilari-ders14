@@ -27,5 +27,5 @@
 
 3-> İBB Açık Veri Portalı -> https://data.ibb.gov.tr/
 
-4-> Küçükçekmece Belediyesi Açık 
+4-> Küçükçekmece Belediyesi Açık Veri Platformu ->
 
