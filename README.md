@@ -12,4 +12,4 @@
 
 * Çevresel ve Sosyal Fayda  
 * Veri Temelli Karar Alma
-* İş Birliklerini
+* İş Birliklerini Destekler
