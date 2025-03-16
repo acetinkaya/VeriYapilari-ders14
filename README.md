@@ -15,9 +15,16 @@
 * Çevresel ve Sosyal Fayda    
 * Veri Temelli Karar Alma    
 * İş Birliklerini Destekler     
-* Ekonomik Değer Oluşturur    
+* Ekonomik Değer Oluşturur
 
-----
+----  
+
+1. CSV (Comma-Separated Values) - CSV, verilerin satır ve sütun halinde saklandığı, her değerin virgülle ayrıldığı düz metin formatıdır.  
+2. Excel (XLS, XLSX) - Microsoft Excel tarafından kullanılan tablolar, grafikler ve formüller içeren bir dosya formatıdır.  
+3. SQL (Structured Query Language) - SQL, verileri saklamak, yönetmek ve sorgulamak için kullanılan bir veritabanı dilidir.  
+4. JSON (JavaScript Object Notation) - JSON, anahtar-değer çiftleri içeren hafif bir veri değişim formatıdır. Daha çok web servisleri ve API'lerde kullanılır.
+ 
+----  
 
 # Ulusal ve Uluslararası Açık Veri Seti Platformları -> Açık Kaynak Veri Seti Sayfaları
 
