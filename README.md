@@ -48,3 +48,7 @@ Veri Setinin İçeriği:
 
 Bu veri seti, 2004 yılından itibaren her yıl için aşağıdaki bilgileri içermektedir:
 
+1. Üretilen Kompost Miktarı (ton): Organik atıklardan elde edilen kompost miktarı.
+
+2. İBB Tesislerinde Geri Dönüştürülen Malzeme Miktarı (ton): İstanbul Büyükşehir Belediyesi tesislerinde geri dönüştürülen malzemelerin toplam miktarı.
+
