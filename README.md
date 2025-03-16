@@ -25,7 +25,7 @@
 |---|-------------|-------------|---------|
 | 1 | **Ulusal Akıllı Şehir Açık Veri Platformu** | Türkiye'deki akıllı şehir uygulamalarıyla ilgili açık veri setlerini sunar. | [Ulusal Akıllı Şehir Açık Veri Platformu](https://ulasav.csb.gov.tr/) |
 | 2 | **TÜBİTAK Açık Arşivi** | TÜBİTAK tarafından sağlanan akademik ve bilimsel açık veri arşividir. | [TÜBİTAK Açık Arşivi](https://acikveri.ulakbim.gov.tr/) |
-| 3 | **İBB Açık Veri Portalı** | 
+| 3 | **İBB Açık Veri Portalı** | İstanbul Büyükşehir Belediyesi 
 
 
 
