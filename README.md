@@ -34,7 +34,7 @@
 | 9 | **Data.gov (ABD Açık Veri Portalı)** | ABD hükümetine ait kamu açık veri setlerini içerir. Sağlık, eğitim, ekonomi ve çevre gibi alanlarda veriler sunar. | [Data.gov](https://www.data.gov/) |
 | 10 | **European Data Portal** | Avrupa Birliği ülkelerine ait açık veri setlerini barındırır. | [European Data Portal](https://data.europa.eu/en) |
 | 11 | **World Bank Open Data** | Dünya Bankası’nın ekonomik ve demografik verilerini içeren büyük bir açık veri kaynağıdır. | [World Bank Open Data](https://data.worldbank.org/) |
-| 10 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
+| 12 | **UNdata (Birleşmiş Milletler Verileri)** | Birleşmiş Milletler tarafından sağlanan küresel ekonomik, sosyal ve çevresel veri setleri içerir. | [UNdata](http://data.un.org/) |
 | 13 | **UCI Machine Learning Repository** | Makine öğrenimi araştırmaları için geniş çapta kullanılan açık veri setlerini sunar. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) |
 | 14 | **NASA Earth Data** | NASA tarafından sağlanan iklim, çevre ve hava durumu ile ilgili açık veri setlerini içerir. | [NASA Earth Data](https://earthdata.nasa.gov/) |
 
