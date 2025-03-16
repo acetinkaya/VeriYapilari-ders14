@@ -21,4 +21,4 @@
 
 ## Açık Kaynak Veri Seti Sayfaları:
 
-1-> 
+1-> Ulusal Akıllı Şehir
